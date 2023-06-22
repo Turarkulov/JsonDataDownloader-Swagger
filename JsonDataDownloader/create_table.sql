@@ -1,0 +1,7 @@
+﻿
+CREATE TABLE IF NOT EXISTS MyData (
+    Id SERIAL PRIMARY KEY,
+    Name TEXT NOT NULL,
+    Age INT NOT NULL
+);
+
